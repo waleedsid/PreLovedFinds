@@ -29,5 +29,6 @@ PreLovedFinds is a web platform dedicated to connecting users with high-quality,
 We welcome contributions! If you have ideas for improvements or find issues, feel free to open a pull request.
 
 ---
+Linkedin: https://www.linkedin.com/in/waleed-siddique-236280194/
 
 Happy shopping with PreLovedFinds!
