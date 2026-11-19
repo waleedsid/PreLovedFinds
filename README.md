@@ -19,8 +19,8 @@ PreLovedFinds is a web platform dedicated to connecting users with high-quality,
 ## Getting Started
 
 1. Clone the repository.
-2. Open `index.html` in your preferred browser.
-3. Start exploring and shopping!
+2. Open `PreLovedFinds/index.html` in your preferred browser.
+3. Explore the storefront pages. This repository contains a static HTML/CSS/JavaScript prototype; it does not include a payment-processing backend.
 
 ## Technologies Used
 
